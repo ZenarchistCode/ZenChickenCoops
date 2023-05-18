@@ -20,6 +20,8 @@ The technique used in this mod to automatically detect static objects can be use
 
 So check out the source code if you're wanting to add dynamic interactions to other static objects other than fire wood piles and chicken coops.
 
+If you want to visually see the chicken coop interaction objects to confirm they're working properly, turn DebugOn to 1 in the JSON config.
+
 Installation Instructions:
 
 Install this mod like any other mod - copy it into your server folder and add it to your mods list. Make sure to copy the .bikey into your server keys if you're not using a server management tool like OmegaManager which does that automatically.
