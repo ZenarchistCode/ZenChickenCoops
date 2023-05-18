@@ -18,7 +18,7 @@ This means you can place chicken coops on Namalsk for example, and players can h
 
 The technique used in this mod to automatically detect static objects can be used to detect and interact with almost any other object in the game, such as creating dynamic street lighting (a separate mod I will release in the future).
 
-So check out the source code if you're wanting to add dynamic interactions to other static objects other than fire wood piles.
+So check out the source code if you're wanting to add dynamic interactions to other static objects other than fire wood piles and chicken coops.
 
 Installation Instructions:
 
